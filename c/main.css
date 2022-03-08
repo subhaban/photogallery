@@ -1,0 +1,42 @@
+h1 ,p{
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+  }
+  
+  .slides {
+    width:500px;
+    height:400px;
+    padding:2rem;
+    margin:auto ;
+  }
+  
+  .pic{
+    border:5px solid #e16d0e;
+    object-fit: cover;
+  }
+  .slides figure {
+    margin: 3rem;
+  }
+  
+  .btn{
+  display:inline-block;
+  border:3px solid red;
+  padding:10px;
+  margin:0 4rem;
+    
+  }
+.para{
+  font-size:1.5rem;
+  color: blue;
+}
+
+ a {
+  
+  background-color: #ffebcd;
+  text-decoration: none;
+   
+
+  }
